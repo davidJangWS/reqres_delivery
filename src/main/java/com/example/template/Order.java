@@ -61,7 +61,7 @@ public class Order {
     }
 
     public String getCustomerName() {
-        return customerName;
+        return customerName; 
     }
 
     public void setCustomerName(String customerName) {
